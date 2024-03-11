@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: randomduck-astro-starter-32a
+package: randomduck/astro-starter-32a

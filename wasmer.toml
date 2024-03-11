@@ -1,0 +1,12 @@
+[package]
+name = "randomduck/astro-starter-32a"
+version = "0.2.4"
+description = "Astro.dev Wasmer starter package"
+readme = "README.md"
+repository = "https://github.com/wasmerio/astro-starter-32a"
+
+[dependencies]
+"wasmer/static-web-server" = "*"
+
+[fs]
+public = "dist"
